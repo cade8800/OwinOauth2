@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<connectionStrings>
+  <add name="Default" connectionString="Server=localhost; Database=OwnerSayCar; Trusted_Connection=True;" providerName="System.Data.SqlClient" />
+</connectionStrings>
